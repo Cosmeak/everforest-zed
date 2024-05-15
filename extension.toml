@@ -1,0 +1,10 @@
+id = "erverforest"
+name = "Everforest Themes"
+description = "Everforest is a green based color scheme; it's designed to be warm and soft in order to protect developers' eyes."
+version = "0.O.1"
+schema_version = 1
+authors = [
+ "Cosmeak <guillaume.fine@cosmeak.dev>"
+ "sainnhe <i@sainnhe.dev>"
+]
+repository = "https://github.com/Cosmeak/everforest-zed"
